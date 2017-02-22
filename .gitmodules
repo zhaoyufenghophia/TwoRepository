@@ -1,0 +1,3 @@
+[submodule "rose"]
+	path = rose
+	url = https://github.com/zhaoyufenghophia/rose-app.git
