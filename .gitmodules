@@ -1,0 +1,6 @@
+[submodule "qb"]
+	path = qb
+	url = https://github.com/zhaoyufenghophia/QB.git
+[submodule "rose-app"]
+	path = rose-app
+	url = https://github.com/zhaoyufenghophia/rose-app.git
